@@ -20,7 +20,7 @@ body {
   color: hsl(228, 45%, 44%);
 }
 
-.card {
+main {
   width: 300px;
   padding: 20px;
   border-radius: 15px;
@@ -30,18 +30,18 @@ body {
   text-align: center;
 }
 
-.card img {
+main img {
   width: 300px;
   border-radius: 15px;
 }
 
-.card h3 {
+main h3 {
   color: hsl(218, 44%, 22%);
   font-size: 25px;
   font-weight: 700;
 }
 
-.card p {
+main p {
   color: hsl(220, 15%, 55%);
   font-size: 15px;
   font-weight: 400;
